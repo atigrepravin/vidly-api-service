@@ -1,0 +1,6 @@
+/.DS_Store
+
+coverage
+logfile.log
+uncaughtException.log
+node_modules

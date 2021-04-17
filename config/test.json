@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "testSecretKey",
+  "db": "mongodb://localhost/test-vidly"
+}
